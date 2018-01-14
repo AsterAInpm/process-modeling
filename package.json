@@ -1,0 +1,23 @@
+{
+  "name": "process-modeling",
+  "version": "1.0.0",
+  "description": "Process modeling and notation library. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsterAInpm/process-modeling.git"
+  },
+  "keywords": [
+    "BPMN",
+    "modeling"
+  ],
+  "author": "Alexandr Baranezky (asterai.com@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsterAInpm/process-modeling/issues"
+  },
+  "homepage": "https://github.com/AsterAInpm/process-modeling#readme"
+}
