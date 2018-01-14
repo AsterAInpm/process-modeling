@@ -1,6 +1,6 @@
 {
   "name": "process-modeling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Process modeling and notation library. ",
   "main": "index.js",
   "scripts": {
